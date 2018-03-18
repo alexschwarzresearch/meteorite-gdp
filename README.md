@@ -4,6 +4,9 @@
   <a href="https://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://img.shields.io/badge/License-CC--0-blue.svg" />
   </a>
+  <a href="https://zenodo.org/badge/latestdoi/125774185">
+    <img src="https://zenodo.org/badge/125774185.svg" alt="DOI">
+  </a>
   <a href="https://orcid.org/0000-0001-5159-8864">
     <img src="https://img.shields.io/badge/ORCiD-0000--0001--5159--8864-brightgreen.svg"/>
   </a>
