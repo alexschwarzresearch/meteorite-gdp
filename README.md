@@ -100,6 +100,7 @@ ___
 4. copy the raw data result to the host with: ```$ docker cp meteorite-gdp:out/meteors_gdp.csv <destination>```
 
 In order to create the result image the temp.html file has to be copied to the host machine and opened:
+
 5. ```$ docker cp meteorite-gdp:out/temp.html <destination>```
 
 ## Licences
